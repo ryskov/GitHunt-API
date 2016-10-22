@@ -52,6 +52,7 @@
     "graphql-tools": "0.7.2",
     "knex": "0.12.3",
     "lodash": "4.16.4",
+    "optics-agent": "0.0.33",
     "passport": "0.3.2",
     "passport-github": "1.1.0",
     "request-promise": "4.1.1",
